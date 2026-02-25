@@ -28,5 +28,5 @@ javac BankManagementSystem.java
 Run:
 java BankManagementSystem
 
-->Author
+->Author:
 Deekshitha M
