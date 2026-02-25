@@ -49,7 +49,7 @@ Bank-Management-System/
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/Bank-Management-System.git
+https://github.com/username/Bank-Management-System.git
 
 2️⃣ Open project folder
 
